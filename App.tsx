@@ -43,7 +43,7 @@ const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-slate-950 text-slate-200 flex flex-col items-center justify-center p-4 selection:bg-cyan-500/30">
       
-      <div className="flex flex-col items-center space-y-8 max-w-md w-full animate-fade-in-up">
+      <div className="flex flex-col items-center space-y-8 max-w-md w-full">
         
         {/* Animated Icon */}
         <div className="transform transition-transform duration-700 hover:scale-105">
